@@ -7,3 +7,4 @@ Lizenz: Weltgesetz 001 – Sicherheitskern der Zukunft 🌐
 ...
 
 ## 📢 Revolution beginnt hier.
+© Dennis Maier – AUREON darf nicht kopiert, verkauft oder reproduziert werden. Nur zur Sichtung erlaubt.
