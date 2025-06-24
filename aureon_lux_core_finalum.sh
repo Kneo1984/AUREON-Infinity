@@ -1,0 +1,1 @@
+# Komplettes magisches Installationsskript (Platzhalter)

@@ -1,0 +1,4832 @@
+{
+  "folders": [
+    {
+      "path": "/mnt/c/Program Files/7-Zip/Lang"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/etc"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/mingw64/doc/git-credential-manager"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/mingw64/share/antiword"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/mingw64/share/doc/connect"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/mingw64/share/doc/git-lfs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/mingw64/share/doc/xz"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/mingw64/share/git"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/gnupg"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/licenses/vim"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/perl5/core_perl/unicore"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/vim/vim91/doc"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/vim/vim91/macros"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/vim/vim91/macros/maze"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/vim/vim91/pack/dist/opt/editorconfig"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/vim/vim91/pack/dist/opt/editorconfig/doc"
+    },
+    {
+      "path": "/mnt/c/Program Files/Git/usr/share/vim/vim91/tools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Lenovo/Lenovo Accessories and Display Manager"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft/OneDrive/ListSync/settings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft Office/root/Office16/1031"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft Office/root/Office16/FloodgateExperiences"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft Office/root/Office16/MSIPC"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft Office/root/Office16/PersonaSpy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft Office/root/Office16/sdxs/FA000000018"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft Office/root/Office16/sdxs/FA000000049"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft Office/root/vfs/ProgramFilesCommonX64/Microsoft Shared/OFFICE16/PlatformCapabilities"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/az-Latn-AZ"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/bs-Latn-BA"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/cy-GB"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/da"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/de"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/fil-PH"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/fr"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/ga-IE"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/gl"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/hr"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/id"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/lb-LU"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/lt"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/lv"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/mi-NZ"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/ms"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/nb-NO"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/nn-NO"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/pl"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/quz-PE"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/ro"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/sl"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/sq"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/sr-Latn-RS"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/25.095.0518.0002/tr"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/StandaloneUpdater"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft OneDrive/Update"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/160/License Terms"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/160/Setup Bootstrap/Log"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/160/Setup Bootstrap/Log/20250516_103410"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/160/Setup Bootstrap/Log/20250516_103556"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/160/Setup Bootstrap/Log/20250517_060703"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/160/Setup Bootstrap/Log/20250517_060703/SQLEXPRESS"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/160/SSEI/LogFiles"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/License Terms"
+    },
+    {
+      "path": "/mnt/c/Program Files/Microsoft SQL Server/Client SDK/OLEDB/187/License Terms"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/Connector ODBC 8.0"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Server 8.0/share"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/mysqlsh/plugins/debug"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/mysqlsh/python-packages/mysql_gadgets"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/mysqlsh/python-packages/mysql_gadgets/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/mysqlsh/python-packages/mysql_gadgets/common"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/asyncio"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/collections"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/concurrent/futures"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/ctypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/dbm"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/email"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/email/mime"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/encodings"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/html"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/http"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/idlelib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/idlelib/idle_test"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/importlib/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/importlib/resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/json"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/logging"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/multiprocessing"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/multiprocessing/dummy"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/pathlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/pydoc_data"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/re"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/antlr4"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/antlr4/dfa"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/antlr4/tree"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/certifi"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/cffi"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/cryptography"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/cryptography/hazmat"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/cryptography/hazmat/backends/openssl"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/cryptography/hazmat/bindings/openssl"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/cryptography/hazmat/primitives"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/cryptography/x509"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/dateutil"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/dateutil/parser"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/dateutil/tz"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/dateutil/zoneinfo"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/nacl"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/nacl/bindings"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/access_governance_cp"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/access_governance_cp/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/adm"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/adm/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_anomaly_detection"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_anomaly_detection/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_document"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_document/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_language"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_language/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_speech"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_speech/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_vision"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ai_vision/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/analytics"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/analytics/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/announcements_service"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/announcements_service/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apigateway"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apigateway/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apm_config"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apm_config/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apm_control_plane"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apm_control_plane/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apm_synthetics"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apm_synthetics/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apm_traces"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/apm_traces/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/appmgmt_control"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/appmgmt_control/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/artifacts"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/artifacts/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/audit"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/audit/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/auth"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/auth/signers"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/autoscaling"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/autoscaling/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/bastion"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/bastion/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/bds"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/bds/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/blockchain"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/blockchain/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/budget"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/budget/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/capacity_management"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/capacity_management/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/certificates"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/certificates/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/certificates_management"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/certificates_management/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cims"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cims/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cloud_bridge"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cloud_bridge/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cloud_guard"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cloud_guard/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cloud_migrations"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cloud_migrations/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cluster_placement_groups"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/cluster_placement_groups/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/compute_cloud_at_customer"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/compute_cloud_at_customer/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/compute_instance_agent"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/compute_instance_agent/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/container_engine"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/container_engine/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/container_instances"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/container_instances/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/core"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/core/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/dashboard_service"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/dashboard_service/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/database"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/database/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/database_management"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/database_management/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/database_migration"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/database_migration/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/database_tools"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/database_tools/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_catalog"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_catalog/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_flow"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_flow/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_integration"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_integration/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_labeling_service"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_labeling_service/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_labeling_service_dataplane"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_labeling_service_dataplane/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_safe"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_safe/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_science"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/data_science/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/delegate_access_control"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/delegate_access_control/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/demand_signal"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/demand_signal/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/desktops"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/desktops/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/devops"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/devops/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/disaster_recovery"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/disaster_recovery/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/dns"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/dns/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/dts"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/dts/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/email"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/email/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/email_data_plane"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/email_data_plane/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/em_warehouse"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/em_warehouse/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/encryption"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/encryption/internal"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/events"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/events/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/file_storage"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/file_storage/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/fleet_apps_management"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/fleet_apps_management/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/fleet_software_update"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/fleet_software_update/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/functions"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/functions/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/fusion_apps"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/fusion_apps/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generative_ai"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generative_ai/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generative_ai_agent"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generative_ai_agent/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generative_ai_agent_runtime"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generative_ai_agent_runtime/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generative_ai_inference"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generative_ai_inference/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generic_artifacts_content"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/generic_artifacts_content/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/globally_distributed_database"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/globally_distributed_database/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/golden_gate"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/golden_gate/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/governance_rules_control_plane"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/governance_rules_control_plane/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/healthchecks"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/healthchecks/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/identity"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/identity/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/identity_data_plane"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/identity_data_plane/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/identity_domains"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/identity_domains/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/integration"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/integration/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/jms"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/jms/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/jms_java_downloads"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/jms_java_downloads/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/key_management"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/key_management/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/license_manager"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/license_manager/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/limits"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/limits/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/load_balancer"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/load_balancer/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/lockbox"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/lockbox/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/logging"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/logging/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/loggingingestion"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/loggingingestion/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/loggingsearch"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/loggingsearch/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/log_analytics"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/log_analytics/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/management_agent"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/management_agent/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/management_dashboard"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/management_dashboard/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/marketplace"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/marketplace/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/marketplace_private_offer"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/marketplace_private_offer/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/marketplace_publisher"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/marketplace_publisher/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/media_services"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/media_services/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/monitoring"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/monitoring/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/mysql"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/mysql/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/network_firewall"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/network_firewall/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/network_load_balancer"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/network_load_balancer/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/nosql"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/nosql/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/object_storage"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/object_storage/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/object_storage/transfer/internal"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/object_storage/transfer/internal/download"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/oce"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/oce/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/oci_control_center"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/oci_control_center/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ocvp"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ocvp/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/oda"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/oda/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/onesubscription"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/onesubscription/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ons"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/ons/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/opa"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/opa/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/opensearch"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/opensearch/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/operator_access_control"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/operator_access_control/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/opsi"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/opsi/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/optimizer"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/optimizer/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osp_gateway"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osp_gateway/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osub_billing_schedule"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osub_billing_schedule/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osub_organization_subscription"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osub_organization_subscription/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osub_subscription"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osub_subscription/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osub_usage"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/osub_usage/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/os_management"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/os_management/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/os_management_hub"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/os_management_hub/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/pagination"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/psql"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/psql/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/queue"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/queue/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/recovery"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/recovery/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/redis"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/redis/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/resource_manager"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/resource_manager/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/resource_scheduler"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/resource_scheduler/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/resource_search"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/resource_search/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/retry"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/rover"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/rover/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/sch"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/sch/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/secrets"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/secrets/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/security_attribute"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/security_attribute/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/service_catalog"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/service_catalog/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/service_manager_proxy"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/service_manager_proxy/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/service_mesh"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/service_mesh/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/stack_monitoring"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/stack_monitoring/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/streaming"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/streaming/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/tenant_manager_control_plane"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/tenant_manager_control_plane/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/threat_intelligence"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/threat_intelligence/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/usage"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/usage/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/usage_api"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/usage_api/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/vault"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/vault/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/vbs_inst"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/vbs_inst/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/visual_builder"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/visual_builder/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/vn_monitoring"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/vn_monitoring/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/vulnerability_scanning"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/vulnerability_scanning/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/waa"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/waa/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/waas"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/waas/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/waf"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/waf/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/work_requests"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/work_requests/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/zpr"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/zpr/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/chardet"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/chardet/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/httpsig_cffi"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/idna"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/jwt"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/requests"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/sseclient"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/urllib3"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/urllib3/contrib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/urllib3/contrib/_securetransport"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/urllib3/packages"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/oci/_vendor/urllib3/util"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/OpenSSL"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/paramiko"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/cli"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/commands"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/index"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/locations"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/metadata/importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/network"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/operations"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/operations/install"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/req"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/resolution/legacy"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/resolution/resolvelib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/utils"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_internal/vcs"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/cachecontrol"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/certifi"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/distlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/distro"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/idna"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/pkg_resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/platformdirs"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/pygments"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/pygments/filters"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/pygments/formatters"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/pygments/lexers"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/requests"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/rich"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/truststore"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/urllib3"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/urllib3/contrib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/urllib3/packages"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pip/_vendor/urllib3/util"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pkg_resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pkg_resources/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pycparser"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pycparser/ply"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/pytz"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/config"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/config/_validate_pyproject"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/tests/config"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/tests/integration"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_distutils"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_distutils/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_distutils/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_distutils/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/autocommand"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/importlib_metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/importlib_resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/importlib_resources/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/inflect"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/jaraco/functools"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/jaraco/text"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/more_itertools"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/platformdirs"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/wheel"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/wheel/vendored/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/setuptools/_vendor/zipp"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/yaml"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/site-packages/_distutils_hack"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/sqlite3"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/sysconfig"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/certdata"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/crashers"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/libregrtest"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/support"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/support/interpreters"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_ast"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_asyncio"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_capi"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_cext"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_concurrent_futures"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_cppext"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_ctypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_dataclasses"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_email"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_email/data"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_free_threading"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_gdb"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_import"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_importlib/extension"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_importlib/frozen"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_importlib/import_"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_importlib/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_importlib/resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_importlib/source"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_inspect"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_interpreters"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_json"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_module"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_multiprocessing_forkserver"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_pathlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_peg_generator"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_pydoc"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_pyrepl"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_sqlite3"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_tkinter"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_ttk"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_unittest"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_unittest/testmock"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_warnings"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_warnings/data"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_zipfile"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_zipfile/_path"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/test/test_zoneinfo"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/tkinter"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/turtledemo"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/unittest"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/urllib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/venv"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/wsgiref"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/xml"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/xml/dom"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/xml/etree"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/xml/parsers"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/xml/sax"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/xmlrpc"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/zipfile"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/zipfile/_path"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/zoneinfo"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/lib/Python3.13/Lib/_pyrepl"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Shell 8.0/share/mysqlsh/prompt"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/modules"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/modules/data/sqlide"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/asyncio"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/collections"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/concurrent/futures"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/ctypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/email"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/email/mime"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/encodings"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/html"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/http"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/idlelib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/importlib/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/json"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/lib2to3"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/lib2to3/fixes"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/lib2to3/pgen2"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/logging"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/msilib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/multiprocessing"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/multiprocessing/dummy"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/pydoc_data"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/re"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/sqlite3"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/tkinter"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/urllib"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/venv"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/wsgiref"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/xml"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/xml/dom"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/xml/etree"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/xml/parsers"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/xml/sax"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/xmlrpc"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/zipfile"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/zipfile/_path"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/python/lib/zoneinfo"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/script_templates"
+    },
+    {
+      "path": "/mnt/c/Program Files/MySQL/MySQL Workbench 8.0 CE/workbench"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/corepack"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/docs/content/commands"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/docs/content/configuring-npm"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/docs/content/using-npm"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/@isaacs/cliui/node_modules/emoji-regex"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/@npmcli/arborist"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/@npmcli/config"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/@npmcli/metavuln-calculator/node_modules/pacote"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/@npmcli/package-json"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/@npmcli/redact"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/@pkgjs/parseargs"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/@sigstore/tuf"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/cacache/node_modules/chownr"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/cacache/node_modules/yallist"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/ci-info"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/cross-spawn"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/cssesc"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/diff"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/emoji-regex"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/glob"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/jackspeak"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmaccess"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmdiff"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmexec"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmfund"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmhook"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmorg"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmpack"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmpublish"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmsearch"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmteam"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/libnpmversion"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/node-gyp"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/node-gyp/gyp/docs"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/node-gyp/gyp/pylib/gyp/generator"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/node-gyp/gyp/pylib/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/node-gyp/node_modules/chownr"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/node-gyp/node_modules/yallist"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/nopt"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/normalize-package-data/lib"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/npm-audit-report"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/npm-registry-fetch"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/package-json-from-dist"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/pacote"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/path-scurry"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/postcss-selector-parser"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/qrcode-terminal"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/rimraf"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/safer-buffer"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/semver"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/sigstore"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/sigstore/node_modules/@sigstore/core"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/sigstore/node_modules/@sigstore/sign"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/sigstore/node_modules/@sigstore/verify"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/socks/docs"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/socks/docs/examples/javascript"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/socks/docs/examples/typescript"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/spdx-license-ids"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/treeverse"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/tuf-js"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/tuf-js/node_modules/@tufjs/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/nodejs/node_modules/npm/node_modules/wrap-ansi/node_modules/emoji-regex"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/asyncio"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/collections"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/concurrent/futures"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/ctypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/ctypes/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/distutils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/distutils/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/distutils/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/email"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/email/mime"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/encodings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/ensurepip"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/html"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/http"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/idlelib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/idlelib/idle_test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/importlib/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/json"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/lib2to3"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/lib2to3/fixes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/lib2to3/pgen2"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/lib2to3/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/lib2to3/tests/data"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/logging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/msilib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/multiprocessing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/multiprocessing/dummy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/pydoc_data"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/adodbapi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/adodbapi/examples"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/adodbapi/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/comtypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/comtypes/client"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/comtypes/gen"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/comtypes/server"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/comtypes/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/comtypes/tools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/comtypes/tools/codegenerator"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/comtypes/_post_coinit"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/contourpy/util"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/dateutil"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/dateutil/parser"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/dateutil/tz"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/dateutil/zoneinfo"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/et_xmlfile"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/cffLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/designspaceLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/encodings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/feaLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/merge"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/misc"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/misc/plistlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/mtiLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/otlLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/pens"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/subset"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/svgLib/path"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/ttLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/ttLib/tables"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/ufoLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/unicodedata"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/varLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/varLib/instancer"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/fontTools/voltLib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/isapi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/isapi/samples"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/isapi/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/joblib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/joblib/externals/loky"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/joblib/externals/loky/backend"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/joblib/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/lxml"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/lxml/html"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/axes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/backends"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/backends/qt_editor"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/projections"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/sphinxext"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/style"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/testing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/testing/jpl_units"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/tri"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/matplotlib/_api"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/mpl_toolkits/axes_grid1"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/mpl_toolkits/axisartist"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/mpl_toolkits/mplot3d"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/mpl_toolkits/mplot3d/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/char"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/core"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/distutils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/distutils/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/distutils/fcompiler"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/distutils/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/f2py"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/f2py/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/f2py/_backends"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/fft"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/fft/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/lib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/lib/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/linalg"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/linalg/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/ma"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/ma/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/matrixlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/matrixlib/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/polynomial"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/polynomial/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/random"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/random/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/random/_examples/numba"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/rec"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/strings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/testing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/testing/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/testing/_private"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/typing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/typing/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/typing/tests/data/pass"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/_core"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/_core/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/_core/tests/examples/cython"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/_core/tests/examples/limited_api"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/_pyinstaller"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/_typing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy/_utils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/numpy-2.2.6.dist-info"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/descriptors"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/formula"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/pivot"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/reader"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/utils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/workbook"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/worksheet"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/writer"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/openpyxl/xml"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/packaging/licenses"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/api"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/api/extensions"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/api/indexers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/api/interchange"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/api/types"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/api/typing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/arrays"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/compat"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/arrays"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/arrays/arrow"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/arrays/sparse"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/array_algos"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/computation"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/dtypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/groupby"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/indexers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/indexes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/interchange"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/internals"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/methods"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/ops"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/reshape"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/sparse"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/strings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/tools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/util"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/window"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/_numba"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/core/_numba/kernels"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/errors"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/io"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/io/clipboard"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/io/excel"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/io/formats"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/io/json"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/io/parsers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/io/sas"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/plotting"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/plotting/_matplotlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/api"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/apply"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arithmetic"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/boolean"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/categorical"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/datetimes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/floating"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/integer"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/interval"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/masked"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/numpy_"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/period"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/sparse"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/string_"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/arrays/timedeltas"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/base"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/computation"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/config"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/construction"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/copy_view"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/dtypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/dtypes/cast"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/extension"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/extension/array_with_attr"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/extension/base"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/extension/date"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/extension/decimal"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/extension/json"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/extension/list"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/frame"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/frame/indexing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/frame/methods"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/generic"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/groupby"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/groupby/aggregate"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/groupby/methods"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/groupby/transform"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/base_class"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/categorical"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/datetimes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/interval"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/multi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/numeric"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/period"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/ranges"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/timedeltas"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexes/timedeltas/methods"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/indexing/multiindex"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/interchange"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/internals"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io/excel"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io/formats"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io/json"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io/parser"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io/parser/common"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io/parser/dtypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io/pytables"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/io/xml"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/libs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/plotting"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/plotting/frame"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/reductions"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/resample"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/reshape"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/reshape/concat"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/reshape/merge"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/scalar"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/scalar/timedelta"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/scalar/timestamp"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/series"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/series/accessors"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/series/indexing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/series/methods"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/strings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/tools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/tseries/frequencies"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/tslibs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/util"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tests/window"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/tseries"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/util"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/_config"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/_libs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pandas/_testing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/PIL"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/cli"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/commands"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/index"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/locations"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/metadata/importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/network"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/operations"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/operations/install"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/req"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/resolution/legacy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/resolution/resolvelib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/utils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_internal/vcs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/cachecontrol"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/certifi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/distlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/distro"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/idna"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/packaging/licenses"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/pkg_resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/platformdirs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/pygments"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/pygments/filters"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/pygments/lexers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/pyproject_hooks"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/requests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/rich"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/truststore"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/urllib3"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/urllib3/contrib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/urllib3/packages"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pip/_vendor/urllib3/util"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pkg_resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pkg_resources/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pkg_resources/_vendor/jaraco"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pkg_resources/_vendor/jaraco/text"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pkg_resources/_vendor/more_itertools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pkg_resources/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pkg_resources/_vendor/pyparsing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pptx"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pptx/chart"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pptx/dml"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pptx/enum"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pptx/opc"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pptx/oxml"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pptx/parts"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pptx/shapes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pyparsing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pyparsing/tools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/debugger"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/Demos"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/Demos/app"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/Demos/ocx"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/dialogs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/docking"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/framework"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/framework/editor"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/framework/editor/color"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/idle"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/mfc"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/scintilla"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pythonwin/pywin/tools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pyttsx3"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pyttsx3/drivers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pytz"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/pywin32-310.dist-info"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/cluster"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/cluster/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/constants"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/constants/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/differentiate"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/differentiate/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/fft"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/fft/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/fftpack"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/fftpack/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/integrate"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/integrate/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/integrate/_ivp"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/integrate/_rules"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/interpolate"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/interpolate/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/io"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/io/matlab"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/io/matlab/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/io/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/io/_fast_matrix_market"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/io/_harwell_boeing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/linalg"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/linalg/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/ndimage"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/ndimage/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/odr"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/odr/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/optimize"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/optimize/cython_optimize"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/optimize/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/optimize/_highspy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/optimize/_lsq"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/optimize/_trustregion_constr"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/signal"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/signal/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/signal/windows"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/sparse"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/sparse/csgraph"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/sparse/csgraph/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/sparse/linalg"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/sparse/linalg/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/sparse/linalg/_eigen/lobpcg/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/sparse/linalg/_isolve"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/sparse/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/spatial"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/spatial/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/special"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/special/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/special/_precompute"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/stats"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/stats/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/stats/tests/data"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/stats/_levy_stable"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/array_api_compat"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/array_api_compat/common"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/array_api_compat/cupy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/array_api_compat/dask/array"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/array_api_compat/numpy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/array_api_compat/torch"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/array_api_extra"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/cobyqa"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/cobyqa/subsolvers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy/_lib/_uarray"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/scipy-1.15.3.dist-info"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/seaborn"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/seaborn/external"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/seaborn/_core"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/seaborn/_marks"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/seaborn/_stats"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/config"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/config/_validate_pyproject"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_distutils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_distutils/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_vendor/importlib_metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_vendor/jaraco"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_vendor/jaraco/text"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_vendor/more_itertools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/setuptools/_vendor/pyparsing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/cluster"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/cluster/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/cluster/_hdbscan"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/compose"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/compose/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/covariance"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/covariance/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/cross_decomposition"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/cross_decomposition/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/datasets"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/datasets/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/decomposition"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/decomposition/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/ensemble"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/ensemble/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/ensemble/_hist_gradient_boosting"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/ensemble/_hist_gradient_boosting/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/experimental"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/experimental/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/externals"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/externals/_scipy/sparse/csgraph"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/feature_extraction"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/feature_extraction/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/feature_selection"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/feature_selection/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/frozen"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/frozen/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/gaussian_process"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/gaussian_process/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/impute"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/impute/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/inspection"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/inspection/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/inspection/_plot"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/inspection/_plot/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/linear_model"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/linear_model/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/linear_model/_glm"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/linear_model/_glm/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/manifold"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/manifold/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/metrics"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/metrics/cluster"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/metrics/cluster/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/metrics/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/metrics/_pairwise_distances_reduction"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/metrics/_plot"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/metrics/_plot/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/mixture"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/mixture/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/model_selection"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/model_selection/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/neighbors"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/neighbors/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/neural_network"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/neural_network/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/preprocessing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/preprocessing/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/semi_supervised"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/semi_supervised/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/svm"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/svm/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/tree"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/tree/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/utils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/utils/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/utils/_test_common"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/_loss"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/sklearn/_loss/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/Demos"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/Demos/dde"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/Demos/pipes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/Demos/security"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/Demos/security/sspi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/Demos/service"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/Demos/win32wnet"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/lib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/scripts"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/scripts/VersionStamp"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32com"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32com/client"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32com/demos"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32com/makegw"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32com/server"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32com/servers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32com/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/adsi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/adsi/demos"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/authorization/demos"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/axdebug"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/axscript"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/axscript/client"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/axscript/server"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/axscript/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/bits/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/directsound/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/ifilter"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/ifilter/demo"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/mapi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/mapi/demos"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/propsys"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/shell"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/shell/demos"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/shell/demos/servers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/shell/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/win32comext/taskscheduler/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/xlsxwriter"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/site-packages/_distutils_hack"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/sqlite3"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/sqlite3/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/crashers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/libregrtest"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/support"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_asyncio"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_capi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_email"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_email/data"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_import"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_importlib/extension"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_importlib/import_"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_importlib/source"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_json"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_peg_generator"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_warnings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/test/test_zoneinfo"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/tkinter"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/tkinter/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/tkinter/test/test_tkinter"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/turtledemo"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/unittest"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/unittest/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/unittest/test/testmock"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/urllib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/venv"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/wsgiref"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/xml"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/xml/dom"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/xml/etree"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/xml/parsers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/xml/sax"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Lib/xmlrpc"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Scripts"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Tools/demo"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Tools/pynche"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python310/Tools/scripts"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Doc/html/_static"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/asyncio"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/collections"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/concurrent/futures"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/ctypes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/ctypes/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/distutils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/distutils/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/distutils/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/email"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/email/mime"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/encodings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/html"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/http"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/idlelib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/idlelib/idle_test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/importlib/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/json"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/lib2to3"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/lib2to3/fixes"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/lib2to3/pgen2"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/lib2to3/tests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/lib2to3/tests/data"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/logging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/msilib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/multiprocessing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/multiprocessing/dummy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/pydoc_data"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/re"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/cli"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/commands"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/index"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/locations"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/metadata/importlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/models"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/network"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/operations"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/operations/build"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/operations/install"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/req"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/resolution/legacy"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/resolution/resolvelib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/utils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_internal/vcs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/cachecontrol"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/certifi"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/chardet"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/chardet/metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/colorama"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/distlib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/distro"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/idna"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/pkg_resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/platformdirs"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/pygments"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/pygments/filters"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/pygments/formatters"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/pygments/lexers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/pyparsing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/requests"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/rich"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/urllib3"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/urllib3/contrib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/urllib3/packages"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/urllib3/util"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pip/_vendor/webencodings"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pkg_resources"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pkg_resources/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pkg_resources/_vendor/jaraco"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pkg_resources/_vendor/jaraco/text"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pkg_resources/_vendor/more_itertools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pkg_resources/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/pkg_resources/_vendor/pyparsing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/config"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/config/_validate_pyproject"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_distutils"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_distutils/command"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_vendor"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_vendor/importlib_metadata"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_vendor/jaraco"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_vendor/jaraco/text"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_vendor/more_itertools"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/setuptools/_vendor/pyparsing"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/site-packages/_distutils_hack"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/sqlite3"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/tkinter"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/tkinter/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/tkinter/test/test_tkinter"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/turtledemo"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/unittest"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/unittest/test"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/unittest/test/testmock"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/urllib"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/venv"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/wsgiref"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/xml"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/xml/dom"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/xml/etree"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/xml/parsers"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/xml/sax"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Lib/xmlrpc"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Tools/demo"
+    },
+    {
+      "path": "/mnt/c/Program Files/Python311/Tools/scripts"
+    },
+    {
+      "path": "/mnt/c/Program Files/Windows Defender"
+    },
+    {
+      "path": "/mnt/c/Program Files/Windows Defender Advanced Threat Protection"
+    },
+    {
+      "path": "/mnt/c/Program Files/Windows Defender Advanced Threat Protection/Classification/Dprt"
+    },
+    {
+      "path": "/mnt/c/Program Files/WindowsPowerShell/Modules/Pester/3.4.0"
+    },
+    {
+      "path": "/mnt/c/Program Files/Wireshark"
+    },
+    {
+      "path": "/mnt/c/Program Files/WSL/wslsettings"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Lenovo/VantageService/4.3.50.0"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/137.0.3296.93"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft/EdgeCore/137.0.3296.93"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft/EdgeWebView/Application/137.0.3296.93"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft SQL Server/Client SDK/ODBC/170/License Terms"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft SQL Server/Client SDK/OLEDB/187/License Terms"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft SQL Server Management Studio 20/Common7/IDE/CommonExtensions/Microsoft/typescript"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft SQL Server Management Studio 20/Licenses"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft SQL Server Management Studio 20/Licenses/1033"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/Licenses/BuildTools/1031"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Microsoft/VisualStudio/v16.0/Python Tools"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/include"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Microsoft Visual Studio/Installer"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/MySQL/MySQL Connector NET 9.3"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/MySQL/MySQL Installer for Windows"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Nmap"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Nmap/licenses"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Nmap/nselib/data"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/Windows Kits/10/App Certification Kit"
+    },
+    {
+      "path": "/mnt/c/Program Files (x86)/WindowsPowerShell/Modules/Pester/3.4.0"
+    },
+    {
+      "path": "/mnt/c/Windows/System32"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/catroot2"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/DriverStore/FileRepository/fn.inf_amd64_9c4c29de89199c58/driver"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/DriverStore/FileRepository/iclsclient.inf_amd64_4911ed214bf8cf23/Documents"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/DriverStore/FileRepository/iigd_dch.inf_amd64_306090fd1d6bb4fa"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/DriverStore/FileRepository/iigd_dch.inf_amd64_389da2bfec2045ef"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/DriverStore/FileRepository/litsdrv.inf_amd64_0fefde8b58482d0b/doc"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/DriverStore/FileRepository/litsdrv.inf_amd64_64fe83bb6fa2a9a7/doc"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/DriverStore/FileRepository/sgx_psw.inf_amd64_ece153ca769ec179"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/.github"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/build"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/docs"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/docs/algorithms/kem"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/docs/algorithms/sig"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/docs/algorithms/sig_stfl"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/scripts"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/src/common"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/src/kem/bike/additional_r4"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/src/kem/kyber"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/src/kem/ntruprime"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/src/sig/mayo"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/src/sig_stfl/xmss"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/tests"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/liboqs/zephyr"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/Microsoft-Edge-WebView"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/OpenSSH"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/adodbapi"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/adodbapi/examples"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/adodbapi/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/anyio"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/anyio/abc"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/anyio/streams"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/anyio/_backends"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/anyio/_core"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/click"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/colorama"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/colorama/tests"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/comtypes"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/comtypes/client"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/comtypes/server"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/comtypes/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/comtypes/tools"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/comtypes/tools/codegenerator"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/comtypes/_post_coinit"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/dotenv"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/ecdsa"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/fastapi"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/fastapi/dependencies"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/fastapi/openapi"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/fastapi/security"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/fastapi-0.115.12.dist-info"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/greenlet"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/greenlet/tests"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/h11"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/h11/tests"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/idna"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/isapi"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/isapi/samples"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/isapi/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/jose"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/jose/backends"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/PIL"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/cli"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/commands"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/index"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/locations"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/metadata"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/metadata/importlib"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/models"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/network"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/operations"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/operations/install"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/req"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/resolution/legacy"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/resolution/resolvelib"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/utils"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_internal/vcs"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/cachecontrol"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/certifi"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/distlib"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/distro"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/idna"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/packaging"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/packaging/licenses"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/pkg_resources"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/platformdirs"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/pygments"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/pygments/filters"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/pygments/formatters"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/pygments/lexers"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/pyproject_hooks"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/requests"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/rich"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/truststore"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/urllib3"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/urllib3/contrib"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/urllib3/packages"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pip/_vendor/urllib3/util"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/psutil"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/psutil/tests"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pyasn1/type"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pyaudio"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pydantic"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pydantic/deprecated"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pydantic/experimental"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pydantic/plugin"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pydantic/v1"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pydantic/_internal"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pydantic_core"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/debugger"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/Demos"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/Demos/app"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/Demos/ocx"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/dialogs"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/docking"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/framework"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/framework/editor"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/framework/editor/color"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/idle"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/mfc"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/scintilla"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pythonwin/pywin/tools"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pyttsx3"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pyttsx3/drivers"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/pywin32-310.dist-info"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/rsa"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/speechrecognition-3.14.2.dist-info"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/speech_recognition"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/speech_recognition/pocketsphinx-data/en-US"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/speech_recognition/recognizers"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/speech_recognition/recognizers/whisper_api"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/speech_recognition/recognizers/whisper_local"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/connectors"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/dialects"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/dialects/mssql"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/dialects/mysql"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/dialects/oracle"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/dialects/postgresql"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/dialects/sqlite"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/engine"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/event"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/ext"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/ext/asyncio"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/ext/declarative"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/ext/mypy"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/future"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/orm"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/pool"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/sql"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/testing"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/testing/fixtures"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/testing/plugin"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/testing/suite"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/sqlalchemy/util"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/starlette"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/starlette/middleware"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/tests"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/uvicorn"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/uvicorn/middleware"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/uvicorn/protocols/http"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/uvicorn/protocols/websockets"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/Demos"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/Demos/dde"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/Demos/pipes"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/Demos/security"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/Demos/security/sspi"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/Demos/service"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/Demos/win32wnet"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/lib"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/scripts"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/scripts/VersionStamp"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32com"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32com/client"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32com/demos"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32com/makegw"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32com/server"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32com/servers"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32com/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/adsi"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/adsi/demos"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/authorization/demos"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/axdebug"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/axscript"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/axscript/client"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/axscript/server"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/axscript/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/bits/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/directsound/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/ifilter"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/ifilter/demo"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/mapi"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/mapi/demos"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/propsys"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/shell"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/shell/demos"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/shell/demos/servers"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/shell/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Lib/site-packages/win32comext/taskscheduler/test"
+    },
+    {
+      "path": "/mnt/c/Windows/System32/quantumshield-3.0/venv/Scripts"
+    },
+    {
+      "path": "/mnt/c/Users/denni/Aureon"
+    }
+  ],
+  "settings": {}
+}

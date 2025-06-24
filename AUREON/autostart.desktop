@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=AUREON UI
+Exec=python3 /root/AUREON/aureon_ui.py
+Type=Application
+X-GNOME-Autostart-enabled=true
