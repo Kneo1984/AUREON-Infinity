@@ -4,3 +4,6 @@
 [2025-06-24 20:56:45] 📡 Supervisor gestartet.
 [2025-06-24 20:56:45] 📂 Tages-Syncfile bereits vorhanden: /root/AUREON/CHRONIK/sync_2025-06-24.log
 [2025-06-24 20:56:45] ✅ GitHub-Token erkannt. Automatische Kopplung vorbereitet.
+[2025-06-24 21:08:33] 📡 Supervisor gestartet.
+[2025-06-24 21:08:33] 📂 Tages-Syncfile bereits vorhanden: /root/AUREON/CHRONIK/sync_2025-06-24.log
+[2025-06-24 21:08:33] ⚠️ Kein GH_TOKEN gesetzt – GitHub-Kopplung ausstehend.
