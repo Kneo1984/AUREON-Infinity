@@ -1,0 +1,8 @@
+# Workflow Snapshot – 20250530_185326 FEHLT
+# Projekt: QuantumShield_Infinity FEHLT
+# Ort: C:\Users\denni\OneDrive\Dokumente\QuantumShield_Infinity FEHLT
+ OK
+1. Aktiver Pfad: QuantumShield_Infinity FEHLT
+2. Letzter Befehl: PowerShell Extension aktiviert FEHLT
+3. Nächste Aktion: AURORA_GUI_LAUNCHER.ps1 prüfen/bearbeiten FEHLT
+4. Empfehlung: Änderungen in git committen oder Backup anlegen FEHLT

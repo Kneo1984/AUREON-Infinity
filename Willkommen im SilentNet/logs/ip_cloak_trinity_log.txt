@@ -1,0 +1,4 @@
+2025-05-02 12:19:49,648 - ERROR - Entschlüsselung fehlgeschlagen: Incorrect padding
+2025-05-02 12:22:44,172 - ERROR - Entschlüsselung fehlgeschlagen: string argument should contain only ASCII characters
+2025-05-02 13:03:47,133 - WARNING - Pfad nicht gefunden: C:/Users/denni/AppData/Local/Microsoft/WindowsApps/python3.12.exe "c:/Users/denni/OneDrive/Dokumente/Willkommen im SilentNet/decode_ip_from_image.py
+2025-05-02 13:04:05,263 - ERROR - Fehler beim Zugriff auf Bildinhalt: Impossible to detect message.

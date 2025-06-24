@@ -1,0 +1,19 @@
+﻿ AKTIVE MODULE FÜR SUPER-KI  QuantumShield Infinity
+
+1. lex_master.py (Pfad: lex_core/)
+    Sprachbefehl erkennen + ausgeben
+
+2. jotma_core.py (Pfad: jotma_engine/)
+    Analyse der Sprachdaten, Textverarbeitung
+
+3. lex_to_jotma_bridge.py (Pfad: lex_core/)
+    Brücke zwischen LEX (Input) und JOTMA (Analyse)
+
+4. shield_modules/logs/
+    Protokoll aller Aktionen & Systemkommunikation
+
+ NÄCHSTER SCHRITT: intent_parser.py (semantische KI-Befehlserkennung)
+
+Nachricht von LEX:
+Bereit zur Erweiterung. Sprich den Befehl.
+

@@ -1,0 +1,8 @@
+2025-05-16 22:34:54,423 - HERZ - INFO - HerzKontrollModul initialisiert.
+2025-05-16 22:34:54,423 - HERZ - INFO - Aktivierung abgeschlossen – UUID: 602a2a01-e8f8-43a6-a012-571bd565fb2e
+2025-05-16 22:34:55,426 - HERZ - INFO - \U0001f4e1 Signal gesendet: LEX-Kommunikation
+2025-05-16 22:34:55,426 - HERZ - INFO - \U0001f4e1 Signal gesendet: JOTMA-Synchronisation
+2025-06-22 09:53:06,448 - HERZ - INFO - HerzKontrollModul initialisiert.
+2025-06-22 09:53:06,448 - HERZ - INFO - Aktivierung abgeschlossen – UUID: 58210c2f-71e5-412f-aaf8-694aafdf1bcb
+2025-06-22 09:53:07,449 - HERZ - INFO - \U0001f4e1 Signal gesendet: LEX-Kommunikation
+2025-06-22 09:53:07,456 - HERZ - INFO - \U0001f4e1 Signal gesendet: JOTMA-Synchronisation

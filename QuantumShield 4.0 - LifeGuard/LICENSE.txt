@@ -1,0 +1,17 @@
+﻿QuantumShield 4.0 - LifeGuard Lizenz
+
+Copyright (c) 2025 Dennis Maier aka Kneo
+
+Alle Rechte vorbehalten.
+
+Dieses Projekt und alle zugehörigen Dateien, Quellcodes, Designs und Beschreibungen sind geistiges Eigentum von Dennis Maier aka Kneo.
+
+- Die Nutzung, Vervielfältigung, Veränderung oder Verbreitung ist ohne ausdrückliche schriftliche Genehmigung des Urhebers untersagt.
+- Kommerzielle Nutzung, Vertrieb oder Verkauf des Codes oder abgeleiteter Werke ist nur nach vertraglicher Vereinbarung erlaubt.
+- Das Projekt darf nicht ohne Genehmigung für kommerzielle oder nicht-kommerzielle Projekte verwendet werden.
+
+Der Name, das Logo und die Schutzsystemarchitektur sind urheberrechtlich geschützt.
+
+Zuwiderhandlungen werden rechtlich verfolgt.
+
+Stand: 2025

@@ -1,0 +1,8 @@
+# Workflow Snapshot – 20250530_185326
+# Projekt: QuantumShield_Infinity
+# Ort: C:\Users\denni\OneDrive\Dokumente\QuantumShield_Infinity
+
+1. Aktiver Pfad: QuantumShield_Infinity
+2. Letzter Befehl: PowerShell Extension aktiviert
+3. Nächste Aktion: AURORA_GUI_LAUNCHER.ps1 prüfen/bearbeiten
+4. Empfehlung: Änderungen in git committen oder Backup anlegen

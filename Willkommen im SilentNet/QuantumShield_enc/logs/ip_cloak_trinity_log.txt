@@ -1,0 +1,5 @@
+2025-05-02 18:54:41,881 - ERROR - Fehler beim Zugriff auf Bildinhalt: Impossible to detect message.
+2025-05-02 18:55:03,422 - ERROR - Fehler beim Zugriff auf Bildinhalt: Impossible to detect message.
+2025-05-02 18:55:13,553 - ERROR - Fehler beim Zugriff auf Bildinhalt: Impossible to detect message.
+2025-05-02 19:26:46,534 - ERROR - \u274c AES-Entschlüsselung fehlgeschlagen: Incorrect padding
+2025-05-02 19:26:46,534 - ERROR - IP konnte nicht entschlüsselt werden.

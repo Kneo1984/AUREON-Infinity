@@ -1,0 +1,11 @@
+﻿# Sprachtrigger: überprüfe system  => check_system
+def check_system():
+    pass
+
+# Sprachtrigger: aktiviere schutz  => activate_protection
+def activate_protection():
+    pass
+
+# Sprachtrigger: öffne terminal  => open_terminal
+def open_terminal():
+    pass

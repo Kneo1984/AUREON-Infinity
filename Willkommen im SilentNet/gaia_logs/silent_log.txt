@@ -1,0 +1,4 @@
+[2025-05-17T11:07:36.625873] [SYSTEM] Silent Logging aktiviert.
+[2025-05-17T11:07:36.625873] [ALERT] [ALERT] Kritische Werte erkannt am 2025-05-17T11:07:36.625873 | Data: {'toxicity': 6.4, 'oxygen_ppm': 62.1, 'oil_detected': True, 'plastic_index': 8.3}
+[2025-05-17T11:07:38.442072] [ERROR] API-Abruffehler: 'latestReading'
+[2025-05-17T11:07:38.442072] [INFO] Werte im Normalbereich. | Data: {'toxicity': 0.0, 'oxygen_ppm': 100.0, 'oil_detected': False, 'plastic_index': 0.0}

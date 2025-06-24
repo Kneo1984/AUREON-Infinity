@@ -1,0 +1,13 @@
+[2025-06-04 02:53:33] 🧠 AUREON Engine initialisiert.
+[2025-06-04 02:53:46] Fehler: 
+[2025-06-04 02:53:51] Gesprochen: output
+[2025-06-04 02:53:54] Unbekannter Befehl: output
+[2025-06-04 02:54:01] Gesprochen: und sag zeige
+[2025-06-04 02:54:04] Unbekannter Befehl: und sag zeige
+[2025-06-04 02:54:09] Gesprochen: dito
+[2025-06-04 02:54:12] Unbekannter Befehl: dito
+[2025-06-04 03:54:06] 🧠 AUREON Engine initialisiert.
+[2025-06-04 03:54:17] Gesprochen: öffne internet
+[2025-06-04 03:54:20] Unbekannter Befehl: öffne internet
+[2025-06-04 06:09:00] 🧠 AUREON Engine initialisiert.
+[2025-06-04 06:09:10] Gesprochen: schalte dokum

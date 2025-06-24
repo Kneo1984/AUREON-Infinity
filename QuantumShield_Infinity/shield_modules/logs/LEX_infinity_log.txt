@@ -1,0 +1,75 @@
+[2025-05-28 07:48:28,730] Could not import comtypes.gen, trying to create it.
+[2025-05-28 07:48:28,742] Created comtypes.gen directory: 'C:\Users\denni\OneDrive\Dokumente\QuantumShield_Infinity\venv\Lib\site-packages\comtypes\gen'
+[2025-05-28 07:48:28,742] Writing __init__.py file: 'C:\Users\denni\OneDrive\Dokumente\QuantumShield_Infinity\venv\Lib\site-packages\comtypes\gen\__init__.py'
+[2025-05-28 07:48:28,762] Using writeable comtypes cache directory: 'C:\Users\denni\OneDrive\Dokumente\QuantumShield_Infinity\venv\Lib\site-packages\comtypes\gen'
+[2025-05-28 07:48:28,842] Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+[2025-05-28 07:48:28,871] # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+[2025-05-28 07:48:28,968] # Generating comtypes.gen.SpeechLib
+[2025-05-28 07:48:28,982] Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+[2025-05-28 07:48:28,982] # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+[2025-05-28 07:48:28,982] # Generating comtypes.gen.stdole
+[2025-05-28 07:48:30,145] LEX Infinity-Modus aktiviert.
+[2025-05-28 07:48:30,145] LEX sagt: LEX ist bereit.
+[2025-05-28 07:48:33,086] LEX sagt: Ich höre.
+[2025-05-28 07:48:40,766] Befehl erkannt: wie geht's dir heute alles cool
+[2025-05-28 07:48:40,822] LEX sagt: Befehl nicht erkannt: wie geht's dir heute alles cool
+[2025-05-28 07:48:45,139] LEX sagt: Ich höre.
+[2025-05-28 07:48:56,545] Befehl erkannt: wäre cool wenn du selbstständig dazu lernst einfach ohne taste
+[2025-05-28 07:48:56,589] LEX sagt: Befehl nicht erkannt: wäre cool wenn du selbstständig dazu lernst einfach ohne taste
+[2025-05-28 07:49:02,868] LEX sagt: Ich höre.
+[2025-05-28 07:49:09,140] Befehl erkannt: öffne WhatsApp
+[2025-05-28 07:49:09,175] LEX sagt: Befehl nicht erkannt: öffne whatsapp
+[2025-05-28 07:49:12,859] LEX sagt: Ich höre.
+[2025-05-28 07:49:19,687] Befehl erkannt: verbinde dich mit tollen Netzwerk
+[2025-05-28 07:49:19,729] LEX sagt: Befehl nicht erkannt: verbinde dich mit tollen netzwerk
+[2025-05-28 07:49:24,239] LEX sagt: Ich höre.
+[2025-05-28 07:49:28,995] Befehl erkannt: Explorer
+[2025-05-28 07:49:29,053] LEX sagt: Befehl nicht erkannt: explorer
+[2025-05-28 07:49:32,524] LEX sagt: Ich höre.
+[2025-05-28 07:49:35,967] Befehl erkannt: YouTube
+[2025-05-28 07:49:36,014] LEX sagt: Befehl nicht erkannt: youtube
+[2025-05-28 07:49:39,473] LEX sagt: Ich höre.
+[2025-05-28 07:49:41,365] LEX sagt: Nichts erkannt.
+[2025-05-28 07:49:43,429] LEX sagt: Ich höre.
+[2025-05-28 07:49:45,147] LEX sagt: Nichts erkannt.
+[2025-05-28 07:49:47,228] LEX sagt: Ich höre.
+[2025-05-28 07:49:53,588] LEX sagt: Nichts erkannt.
+[2025-05-28 07:49:55,632] LEX sagt: Ich höre.
+[2025-05-28 07:50:00,236] LEX sagt: Nichts erkannt.
+[2025-05-28 07:50:02,257] LEX sagt: Ich höre.
+[2025-05-28 07:50:06,688] LEX sagt: Nichts erkannt.
+[2025-05-28 07:50:08,839] LEX sagt: Ich höre.
+[2025-05-28 07:50:15,255] LEX sagt: Nichts erkannt.
+[2025-05-28 07:50:17,352] LEX sagt: Ich höre.
+[2025-05-28 07:50:20,971] LEX sagt: Nichts erkannt.
+[2025-05-28 07:50:23,032] LEX sagt: Ich höre.
+[2025-05-28 07:50:26,349] Befehl erkannt: beenden
+[2025-05-28 07:50:26,394] LEX sagt: LEX wird deaktiviert.
+[2025-06-02 15:23:04,065] Imported existing <module 'comtypes.gen' from 'C:\\Users\\denni\\OneDrive\\Dokumente\\QuantumShield_Infinity\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-06-02 15:23:04,065] Using writeable comtypes cache directory: 'C:\Users\denni\OneDrive\Dokumente\QuantumShield_Infinity\venv\Lib\site-packages\comtypes\gen'
+[2025-06-02 15:23:04,280] LEX Infinity-Modus aktiviert.
+[2025-06-02 15:23:04,280] LEX sagt: LEX ist bereit.
+[2025-06-02 15:23:06,815] LEX sagt: Ich höre.
+[2025-06-02 15:23:11,311] Befehl erkannt: öffne Dokumente
+[2025-06-02 15:23:11,364] LEX sagt: Befehl nicht erkannt: öffne dokumente
+[2025-06-14 18:41:20,138] Imported existing <module 'comtypes.gen' from 'C:\\Users\\denni\\OneDrive\\Dokumente\\QuantumShield_Infinity\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-06-14 18:41:20,144] Using writeable comtypes cache directory: 'C:\Users\denni\OneDrive\Dokumente\QuantumShield_Infinity\venv\Lib\site-packages\comtypes\gen'
+[2025-06-14 18:41:20,333] LEX Infinity-Modus aktiviert.
+[2025-06-14 18:41:20,333] LEX sagt: LEX ist bereit.
+[2025-06-14 18:41:22,861] LEX sagt: Ich höre.
+[2025-06-14 18:41:27,206] Befehl erkannt: Youtube öffnen
+[2025-06-14 18:41:27,243] LEX sagt: Befehl nicht erkannt: youtube öffnen
+[2025-06-14 18:41:30,948] LEX sagt: Ich höre.
+[2025-06-14 18:41:37,343] LEX sagt: Nichts erkannt.
+[2025-06-14 18:41:39,380] LEX sagt: Ich höre.
+[2025-06-14 18:41:42,501] LEX sagt: Nichts erkannt.
+[2025-06-22 09:47:54,088] Imported existing <module 'comtypes.gen' from 'C:\\Users\\denni\\OneDrive\\Dokumente\\QuantumShield_Infinity\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-06-22 09:47:54,089] Using writeable comtypes cache directory: 'C:\Users\denni\OneDrive\Dokumente\QuantumShield_Infinity\venv\Lib\site-packages\comtypes\gen'
+[2025-06-22 09:47:54,309] LEX Infinity-Modus aktiviert.
+[2025-06-22 09:47:54,310] LEX sagt: LEX ist bereit.
+[2025-06-22 09:47:56,849] LEX sagt: Ich höre.
+[2025-06-22 09:48:03,491] Befehl erkannt: Hilfe
+[2025-06-22 09:48:03,530] LEX sagt: Befehl nicht erkannt: hilfe
+[2025-06-22 09:48:06,688] LEX sagt: Ich höre.
+[2025-06-22 09:48:10,352] Befehl erkannt: beenden
+[2025-06-22 09:48:10,392] LEX sagt: LEX wird deaktiviert.

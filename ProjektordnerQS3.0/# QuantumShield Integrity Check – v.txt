@@ -1,0 +1,96 @@
+# QuantumShield Integrity Check – v3.0
+Write-Host "🔍 Starte Systemprüfung..." -ForegroundColor Cyan
+$errors = 0
+
+# 1. Firewall Check
+$firewallProfiles = Get-NetFirewallProfile
+if ($firewallProfiles | Where-Object {$_.Enabled -eq $false}) {
+    Write-Host "❌ Firewall ist nicht für alle Profile aktiviert!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ Firewall ist aktiv für alle Profile." -ForegroundColor Green
+}
+
+# 2. Remote Desktop Check
+$rdp = Get-ItemProperty -Path "HKLM:\System\CurrentControlSet\Control\Terminal Server" -Name fDenyTSConnections
+if ($rdp.fDenyTSConnections -ne 1) {
+    Write-Host "❌ Remote Desktop ist NICHT deaktiviert!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ Remote Desktop ist deaktiviert." -ForegroundColor Green
+}
+
+# 3. SMBv1 Check
+$smb = Get-SmbServerConfiguration
+if ($smb.EnableSMB1Protocol) {
+    Write-Host "❌ SMBv1 ist noch aktiviert!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ SMBv1 ist deaktiviert." -ForegroundColor Green
+}
+
+# 4. Defender Check
+$def = Get-MpPreference
+if ($def.DisableRealtimeMonitoring -ne $false -or $def.MAPSReporting -ne "Advanced" -or $def.SubmitSamplesConsent -ne "SendAllSamples") {
+    Write-Host "❌ Defender-Einstellungen sind nicht vollständig korrekt!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ Defender-Echtzeitschutz & Cloud-Schutz aktiv." -ForegroundColor Green
+}
+
+# 5. Firewall Rules Check
+$telnet = Get-NetFirewallRule -DisplayName "Block Telnet" -ErrorAction SilentlyContinue
+$ftp = Get-NetFirewallRule -DisplayName "Block FTP" -ErrorAction SilentlyContinue
+if (!$telnet -or !$ftp -or $telnet.Enabled -ne "True" -or $ftp.Enabled -ne "True") {
+    Write-Host "❌ Firewall-Regeln für Telnet und FTP fehlen oder sind deaktiviert!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ Firewall blockiert Telnet & FTP." -ForegroundColor Green
+}
+
+# 6. Hosts-Einträge Check
+$hosts = Get-Content "C:\Windows\System32\drivers\etc\hosts"
+if (($hosts -notmatch "tracking.badsite.com") -or ($hosts -notmatch "ads.maliciousdomain.net")) {
+    Write-Host "❌ Hosts-Datei enthält NICHT alle Schutz-Einträge!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ Hosts-Einträge sind vorhanden." -ForegroundColor Green
+}
+
+# 7. Backup-Dateien Check
+$docPath = "$env:USERPROFILE\OneDrive\Dokumente"
+$hostBackup = Get-ChildItem "$docPath\hosts_backup_*" -ErrorAction SilentlyContinue
+$regBackup = Get-ChildItem "$docPath\registry_backup_*.reg" -ErrorAction SilentlyContinue
+if (!$hostBackup -or !$regBackup) {
+    Write-Host "❌ Mindestens ein Backup (hosts/registry) fehlt!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ Backups vorhanden (hosts & registry)." -ForegroundColor Green
+}
+
+# 8. Log-Datei vorhanden
+$logPath = "$docPath\QuantumShield_log.txt"
+if (-not (Test-Path $logPath)) {
+    Write-Host "❌ QuantumShield-Logdatei fehlt!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ Logdatei existiert: QuantumShield_log.txt" -ForegroundColor Green
+}
+
+# 9. ShadowReplace-Log
+$shadowLog = "$env:TEMP\shadowreplace_log.txt"
+if (-not (Test-Path $shadowLog)) {
+    Write-Host "❌ ShadowReplace-Log fehlt!" -ForegroundColor Red
+    $errors++
+} else {
+    Write-Host "✅ ShadowReplace-Log vorhanden." -ForegroundColor Green
+}
+
+# Ergebnis
+Write-Host "`n--------------------------------------------"
+if ($errors -eq 0) {
+    Write-Host "✅✅✅ ALLES SICHER! QuantumShield ist vollständig und korrekt aktiv." -ForegroundColor Green
+} else {
+    Write-Host "⚠️ $errors Problem(e) erkannt – bitte prüfen & korrigieren!" -ForegroundColor Yellow
+}
+Write-Host "--------------------------------------------`n"

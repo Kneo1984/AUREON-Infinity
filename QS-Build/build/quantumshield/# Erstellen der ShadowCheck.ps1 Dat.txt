@@ -1,0 +1,63 @@
+# Erstellen der ShadowCheck.ps1 Datei-Inhalte
+shadowcheck_script = r'''
+# ShadowCheck.ps1 – Sicherheitsprüfung
+
+Write-Host "`n🛡️ Starte ShadowCheck – Sicherheitsprüfung läuft..." -ForegroundColor Cyan
+
+# 1. Hosts-Datei prüfen
+Write-Host "`n📄 Überprüfe Hosts-Datei..." -ForegroundColor Gray
+$hostsPath = "C:\Windows\System32\drivers\etc\hosts"
+if (Test-Path $hostsPath) {
+    Get-Content $hostsPath | Where-Object { $_ -notmatch "^#|^\s*$" }
+} else {
+    Write-Host "❌ Hosts-Datei nicht gefunden." -ForegroundColor Red
+}
+
+# 2. Defender-Status
+Write-Host "`n🛡️ Windows Defender Status..." -ForegroundColor Gray
+Get-MpComputerStatus | Select-Object AMServiceEnabled, AntispywareEnabled, AntivirusEnabled, RealTimeProtectionEnabled
+
+# 3. Netzwerkverbindungen & Remote-IPs
+Write-Host "`n🌐 Aktive Netzwerkverbindungen (Remote-IP)..." -ForegroundColor Gray
+Get-NetTCPConnection | Where-Object { $_.RemoteAddress -ne '127.0.0.1' -and $_.RemoteAddress -ne '::1' } | Select-Object LocalAddress, LocalPort, RemoteAddress, State
+
+# 4. Prozesse mit Netzwerkzugriff
+Write-Host "`n📦 Prozesse mit offenen Ports..." -ForegroundColor Gray
+Get-NetTCPConnection | Group-Object OwningProcess | ForEach-Object {
+    try {
+        $proc = Get-Process -Id $_.Name -ErrorAction Stop
+        Write-Host "🔹 $($proc.ProcessName) (PID: $($_.Name))" -ForegroundColor Yellow
+    } catch {
+        Write-Host "❓ Prozess-ID $($_.Name) nicht auffindbar"
+    }
+}
+
+# 5. Backup-Überprüfung
+Write-Host "`n💾 Backup-Check (Registry & HostBackup)..." -ForegroundColor Gray
+$regPath = "HKLM:\SOFTWARE\QuantumShield\Backup"
+$hostBackup = "C:\ProgramData\QuantumCheck\hosts.bak"
+if (Test-Path $regPath) {
+    Get-ItemProperty -Path $regPath
+} else {
+    Write-Host "❌ Kein Registry-Backup gefunden." -ForegroundColor DarkYellow
+}
+if (Test-Path $hostBackup) {
+    Write-Host "✅ Host-Backup vorhanden: $hostBackup" -ForegroundColor Green
+} else {
+    Write-Host "❌ Host-Backup fehlt." -ForegroundColor Red
+}
+
+# 6. Abschlussbericht
+Write-Host "`n✅ ShadowCheck abgeschlossen – Ergebnis gespeichert in shadowcheck_log.txt" -ForegroundColor Green
+
+# Speichern des Logs
+Start-Transcript -Path "shadowcheck_log.txt" -Force
+Stop-Transcript
+'''
+
+# Speichern als Datei
+file_path = "/mnt/data/ShadowCheck.ps1"
+with open(file_path, "w", encoding="utf-8") as f:
+    f.write(shadowcheck_script)
+
+file_path
