@@ -1,1 +1,27 @@
-<!DOCTYPE html><html><head><meta charset="UTF-8"><title>AUREON Infinity</title></head><body><h1>🌌 AUREON lebt.</h1><p>Willkommen im Infinity-Kern.</p></body></html>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>AUREON Infinity</title>
+  <style>
+    body {
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌌 AUREON lebt.</h1>
+  <p>Willkommen im Infinity-Kern.</p>
+  <script>
+    document.addEventListener("contextmenu", event => event.preventDefault());
+    document.addEventListener("keydown", event => {
+      if (event.ctrlKey && ["c","u","s"].includes(event.key.toLowerCase())) {
+        event.preventDefault();
+      }
+    });
+    document.addEventListener("selectstart", event => event.preventDefault());
+  </script>
+</body>
+</html>
